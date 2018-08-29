@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'fm-root',
+  selector: 'am-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
